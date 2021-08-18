@@ -1,0 +1,90 @@
+body {
+  box-sizing: content-box;
+  background: linear-gradient(45deg, yellow, orange);
+  font-family: "Recursive", sans-serif;
+}
+
+header {
+  grid-column: 1/4;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  text-align: center;
+  padding: 1%;
+}
+
+h3#work {
+  background: linear-gradient(90deg, orangered, red);
+  padding: 1%;
+  text-decoration: none;
+  color: white;
+  grid-column: 1/ 4;
+}
+
+section#myprofile {
+  padding: 7% 3% 3% 3%;
+  text-align: center;
+}
+
+section#summary {
+  padding: 3%;
+  line-height: 1.5;
+}
+
+main {
+  display: grid;
+  grid-template-columns: 35% 64%;
+  grid-template-rows: 12% 88% 88%;
+  width: 70vw;
+  height: auto;
+  margin: 0 auto;
+  padding: 1.2% 1.2% 3% 1.2%;
+  background-color: whitesmoke;
+  grid-gap: 2% 0;
+}
+
+div#mypp {
+  width: 50%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+}
+
+img.banner {
+  width: 20%;
+  height: auto;
+  margin: 2%;
+}
+
+img#profile {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+hr {
+  border: orangered 2px solid;
+}
+
+article {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  /* grid-template-rows: 100% 100%; */
+}
+
+div#summary p {
+    text-align: justify;
+}
+
+i {
+    font-weight: 100;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2, h4 {
+    margin: 0;
+}
+
+section#myprofile div {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
