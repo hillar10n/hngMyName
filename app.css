@@ -33,7 +33,7 @@ section#summary {
 @media screen and (max-width: 768px)  {
   main {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 12fr;
     grid-auto-rows: minmax(150px, auto);
     max-width: 95vw;
     margin: 0 auto;
