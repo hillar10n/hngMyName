@@ -30,7 +30,18 @@ section#summary {
   padding: 3%;
   line-height: 1.5;
 }
-
+@media only screen and (max-width: 768px)  {
+  main {
+    display: grid;
+    grid-template-columns: 32% 61%;
+    grid-auto-rows: minmax(150px, auto);
+    max-width: 95vw;
+    margin: 0 auto;
+    padding: 0.6% 0.6% 1.5% 0.6%;
+    background-color: whitesmoke;
+    grid-gap: 2% 0;
+  }
+}
 main {
   display: grid;
   grid-template-columns: 35% 64%;
