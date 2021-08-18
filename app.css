@@ -10,10 +10,11 @@ header {
   grid-template-columns: 1fr 2fr;
   text-align: center;
   padding: 1%;
+  background: linear-gradient(90deg, azure, lightyellow);
 }
 
 h3#work {
-  background: linear-gradient(90deg, orangered, red);
+  background: linear-gradient(90deg,orange, orangered);
   padding: 1%;
   text-decoration: none;
   color: white;
