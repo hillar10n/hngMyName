@@ -35,7 +35,7 @@ main {
   display: grid;
   grid-template-columns: 35% 64%;
   grid-template-rows: 12% 88% 88%;
-  width: 70vw;
+  width: 90vw;
   height: auto;
   margin: 0 auto;
   padding: 1.2% 1.2% 3% 1.2%;
