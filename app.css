@@ -30,7 +30,7 @@ section#summary {
   padding: 3%;
   line-height: 1.5;
 }
-@media only screen and (max-width: 768px)  {
+@media screen and (max-width: 768px)  {
   main {
     display: grid;
     grid-template-columns: 32% 61%;
