@@ -34,7 +34,7 @@ section#summary {
 main {
   display: grid;
   grid-template-columns: 35% 64%;
-  grid-auto-rows: minmax(200px, auto);
+  grid-auto-rows: minmax(150px, auto);
   max-width: 90vw;
   margin: 0 auto;
   padding: 1.2% 1.2% 3% 1.2%;
