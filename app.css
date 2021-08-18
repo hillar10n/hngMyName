@@ -72,19 +72,20 @@ article {
 }
 
 div#summary p {
-    text-align: justify;
+  text-align: justify;
 }
 
 i {
-    font-weight: 100;
-    font-family: 'Courier New', Courier, monospace;
+  font-weight: 100;
+  font-family: "Courier New", Courier, monospace;
 }
 
-h2, h4 {
-    margin: 0;
+h2,
+h4 {
+  margin: 0;
 }
 
 section#myprofile div {
-    padding-top: 5%;
-    padding-bottom: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
 }
