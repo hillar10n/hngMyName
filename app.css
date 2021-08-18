@@ -15,7 +15,7 @@ header {
 
 h3#work {
   background: linear-gradient(90deg,orange, orangered);
-  padding: 1%;
+  padding: 20px;
   text-decoration: none;
   color: white;
   grid-column: 1/ 4;
