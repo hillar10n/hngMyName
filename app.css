@@ -64,12 +64,9 @@ div#content div#trac {
   background: rgb(20, 20, 80);
   color: white;
   padding: 10px;
-  /* display: grid;
-  grid-template-columns: 1fr; */
 }
 
 #myprofile div{
-  /* background-color: red; */
   margin: 0 auto;
   text-align: center;
   line-height: 2;
@@ -94,6 +91,7 @@ div#content div#trac {
   grid-column: 2 / 4;
   padding: 3%;
   line-height: 2;
+  margin: 0 auto;
 }
 
 ul li {
