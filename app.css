@@ -27,7 +27,7 @@ header {
   grid-template-columns: repeat(3, 1fr);
   grid-auto-rows: minmax(55px, auto);
   padding: 5px;
-  background: linear-gradient(90deg, azure, lightyellow);
+  background: linear-gradient(90deg, powderblue, lightyellow);
 }
 
 header img {
